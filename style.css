@@ -4,7 +4,7 @@ body {
     align-items: center;
     height: 100vh;
     margin: 0;
-    background-color: ##ffbdbd;
+    background-color: #ffbdbd;
     font-family: 'Arial', sans-serif;
     flex-direction: column;
   }
